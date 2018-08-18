@@ -8,3 +8,7 @@ Neural Image Captioning Generator with Attention
 **Dependencies**: Scripts for the generator were created in a Python 3.6 conda environment using the intel distribution of python (see environment.yml - Not all libraries in this file are required to run the generator. The primary packages used are keras and TensorFlow and the Python libraries for images and strings. I recommend using Anaconda3 to create a conda environment for the application. The environment.yml file can be imported to manage dependencies).
 
 **Memory requirements**: This version of the generator was run on a laptop with 16GB of RAM. Using the [Intel Distribution of Python](https://software.intel.com/en-us/distribution-for-python) greatly reduces the training time on a laptop with Intel CPUs. 
+
+**Neural Image Captioning Architecture**: CNN + LSTM w/ attention
+
+![](https://raw.githubusercontent.com/briangriner/ImageCaptioningGenerator/master/model.png)
