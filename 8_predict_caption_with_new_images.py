@@ -71,7 +71,7 @@ tokenizer = load(open('tokenizer.pkl', 'rb'))
 # pre-define the max sequence length (from training)
 max_length = 34
 # load the model
-model = load_model('model-ep004-loss3.588-val_loss3.825.h5') # black dog is swimming in water
+model = load_model('model-ep002-loss3.862-val_loss3.890.h5') # black dog is swimming in water
 
 # model stopped improving at the 4th epoch - stopped after completing 10th epoch
 #initial model:'model-ep001-loss4.505-val_loss4.057.h5'-black dog is running through the water
