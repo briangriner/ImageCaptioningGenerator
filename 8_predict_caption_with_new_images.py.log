@@ -1,0 +1,16 @@
+Using TensorFlow backend.
+2018-10-07 11:01:05.689827: I tensorflow/core/platform/cpu_feature_guard.cc:137] Your CPU supports instructions that this TensorFlow binary was not compiled to use: SSE4.2 AVX AVX2 FMA
+1.png caption: startseq man in red shirt and white shirt is standing on the grass endseq
+2.png caption: startseq young boy in red shirt is playing in the grass endseq
+3.png caption: startseq man in red shirt is riding bike on the beach endseq
+4.png caption: startseq man in red shirt is standing on the grass endseq
+5.png caption: startseq young boy in red shirt is running down the street endseq
+6.png caption: startseq man in red shirt is standing on the grass endseq
+7.png caption: startseq man in red shirt and white shirt is standing on the street endseq
+8.png caption: startseq man in red shirt is standing on the street endseq
+9.png caption: startseq man in red shirt is standing on the grass endseq
+10.png caption: startseq man in red shirt and white shirt is standing on the street endseq
+11.png caption: startseq two children are playing in the grass endseq
+12.png caption: startseq man in red shirt and white shirt and white shirt and white shirt is standing on the street endseq
+13.png caption: startseq man in red shirt is standing on the grass endseq
+14.png caption: startseq little girl in red shirt is playing in the grass endseq
